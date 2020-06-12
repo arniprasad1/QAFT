@@ -12,6 +12,7 @@ public class UALLandingPageTest {
 		this.driver = driver;
 
 	}
+	//
 	// public String cabin = "Premium economy";
 	// public String paxType = "Adults";
 	//
